@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あああああ",
+  "base_artist": "樋口 楓",
+  "createdAt": "2026-02-19T07:35:12.060395Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あああああ",
+      "artist": "樋口楓",
+      "has_synced": false,
+      "path": "select/pl_01_あああああ_樋口楓.txt"
+    }
+  ]
+}
